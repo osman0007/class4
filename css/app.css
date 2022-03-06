@@ -1,0 +1,379 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500&family=Shippori+Antique+B1&display=swap');
+
+:root{
+	--blue:#008aff;
+	--navy-blue:#0f2656;
+	--red:#f15767;
+}
+
+
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+
+}
+img{
+	max-width: 100%;
+}
+body{
+	font-family: 'Open Sans', sans-serif;
+
+}
+header{
+    
+    padding: 10px 0px;
+    border-bottom: 2px solid #0f265617;
+}
+.cointainer{
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.flex{
+    display: flex;
+    flex-wrap: wrap;
+}
+.logo{flex-basis: 20%;max-width: 20%;}
+.logo img{}
+nav{flex-basis: 80%;max-width: 80%;}
+nav ul{
+    display: flex;
+    justify-content: flex-end;
+    list-style: none;
+}
+nav ul li{}
+nav ul li a{
+    text-transform: capitalize;
+    text-decoration: none;
+    padding: 10px 30px;
+    color: var(--blue);
+    display: block;
+    font-size: 18px;
+}
+nav ul li a :hover{}
+
+.banner-section{
+    padding: 50px 0;
+}
+.cointainer-sm{
+    max-width: 1000px;
+    margin: auto;
+}
+.banner{
+    text-align: center;
+}
+.banner h1{
+    font-size: 55px;
+    font-weight: 900;
+    color: var(--navy-blue);
+    line-height: 1.3em;
+}
+.banner h1 strong{
+    color: var(--blue);
+    display: block;
+}
+.banner p{
+    color: var(--navy-blue);
+    margin:  20px auto;
+    max-width: 800px;
+}
+.banner img{
+    max-width: 500px;
+}
+
+.text-right{
+	text-align: right;
+}
+.feature-section{padding: 30px 0;}
+.col2{
+    flex-basis: 50%;
+    max-width: 50%;
+    padding: 20px;
+}
+.feature-section h2{
+    font-size: 55px;
+    font-weight: 900;
+    font-family: 'Shippori Antique B1', sans-serif;
+    color: var(--red);
+    line-height: 1.2em;
+}
+.feature-section p{
+    color: var(--navy-blue);
+     margin: 20px 0; 
+}
+.feature-section h1{
+    font-size: 55px;
+    font-weight: 900;
+    font-family: 'Shippori Antique B1', sans-serif;
+    color: var(--navy-blue);
+    line-height: 1.2em;
+    }
+
+
+.service-section{@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500&family=Shippori+Antique+B1&display=swap');
+
+:root{
+	--blue:#008aff;
+	--navy-blue:#0f2656;
+	--red:#f15767;
+}
+
+
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+img{
+	max-width: 100%;
+}
+body{
+	font-family: 'Open Sans', sans-serif;
+
+}
+header{
+    
+    padding: 10px 0px;
+    border-bottom: 2px solid #0f265617;
+}
+.cointainer{
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.flex{
+    display: flex;
+    flex-wrap: wrap;
+}
+.logo{flex-basis: 20%;max-width: 20%;}
+.logo img{}
+nav{flex-basis: 80%;max-width: 80%;}
+nav ul{
+    display: flex;
+    justify-content: flex-end;
+    list-style: none;
+}
+nav ul li{}
+nav ul li a{
+    text-transform: capitalize;
+    text-decoration: none;
+    padding: 10px 30px;
+    color: var(--blue);
+    display: block;
+    font-size: 18px;
+}
+nav ul li a :hover{}
+
+.banner-section{
+    padding: 50px 0;
+}
+.cointainer-sm{
+    max-width: 1000px;
+    margin: auto;
+}
+.banner{
+    text-align: center;
+}
+.banner h1{
+    font-size: 55px;
+    font-weight: 900;
+    color: var(--navy-blue);
+    line-height: 1.3em;
+}
+.banner h1 strong{
+    color: var(--blue);
+    display: block;
+}
+.banner p{
+    color: var(--navy-blue);
+    margin:  20px auto;
+    max-width: 800px;
+}
+.banner img{
+    max-width: 500px;
+}
+
+.text-right{
+	text-align: right;
+}
+.feature-section{padding: 30px 0;}
+.col2{
+    flex-basis: 50%;
+    max-width: 50%;
+    padding: 20px;
+}
+.feature-section h2{
+    font-size: 55px;
+    font-weight: 900;
+    font-family: 'Shippori Antique B1', sans-serif;
+    color: var(--red);
+    line-height: 1.2em;
+}
+.feature-section p{
+    color: var(--navy-blue);
+     margin: 20px 0; 
+}
+.feature-section h1{
+    font-size: 55px;
+    font-weight: 900;
+    font-family: 'Shippori Antique B1', sans-serif;
+    color: var(--navy-blue);
+    line-height: 1.2em;
+    }
+
+
+.service-section{  }
+.col3{
+    flex-basis: 33.33%;
+    max-width: 33.33%;
+    padding: 20px;
+    margin-right: right;
+}
+.service{}
+.color1{}
+.color2{}
+.color3{}
+.service img{}
+.service h3{}
+.service p{}
+footer{}
+.copyright{}
+.copyright p{}
+.copyright p a{}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  }
+.col3{
+    flex-basis: 33.33%;
+    max-width: 33.33%;
+}
+.service{}
+.color1{}
+.color2{}
+.color3{}
+.service img{text-align: center;}
+.service h3{}
+.service p{}
+footer{}
+.copyright{}
+.copyright p{}
+.copyright p a{}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
